@@ -1,0 +1,10 @@
+name: Friends
+main: com.december.friends.Friends
+version: 1.0
+api-version: 1.13
+description: Friends plugin.
+
+commands:
+  friend:
+    aliases: [f, friends]
+    description: Friend command.
